@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anfernee
+- 👋 Hi, I’m Anfernee
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning data engineering and tensorflow
 
